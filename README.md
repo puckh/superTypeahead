@@ -1,5 +1,5 @@
 # superTypeahead
-A directive for a 'super' Angular Typeahead that uses a dot sign.
+A custom directive for a 'super' Angular Typeahead that uses a dot sign for two user inputs.
 
 Check this Plunk to see it in action:
 
